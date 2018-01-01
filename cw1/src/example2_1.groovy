@@ -1,5 +1,3 @@
-import java.lang.reflect.Array
-
 // Napisać funkcję odnajdującą maksimum z przekazanej listy obiektów (liczb, napisów) i zwracającą wartość maksymalną oraz pozycje (indeksy) listy na których ta wartość się znajduje. Użyć konstrukcji  eachWithIndex.
 //
 // Pomoc: zwracamy listę w postaci [ maxValue, [ ind1. ind2, ... indN ]]

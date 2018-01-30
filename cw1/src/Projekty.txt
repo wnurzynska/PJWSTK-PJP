@@ -1,0 +1,3 @@
+Super projekt	Jan Kowalski	Ola Nowak	John Vatikansky	Andrew Woytynsky
+Zwykly projekt	Jan Kowalski	Ola Nowak	Andrew Wojtynsky
+Maly Projekt	Michał Kowalski	Marcin Zwyczajny
